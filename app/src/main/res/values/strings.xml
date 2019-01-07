@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">QuizoGame</string>
+    <string name="brain_game_quiz">QuizoGame</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="questionNo1">1) What is  the name of the highest mountain on Earth?</string>
+    <string name="MountainHint">Mount Olympus</string>
+    <string name="questionNo2">2) When was American Civil War started?</string>
+    <string name="answer1861">1861</string>
+    <string name="answer1865">1865</string>
+    <string name="answer1939">1939</string>
+    <string name="questionNo3">3) Most developed countries in Asia Continent(choose double answer for this question)?</string>
+    <string name="answerSingapore">Singapore</string>
+    <string name="answerHongkong">Hong Kong</string>
+    <string name="answerDenmark">Denmark</string>
+    <string name="questionNo4">4) What is another word for lexicon?</string>
+    <string name="BookHint">Reference Book</string>
+    <string name="questionNo5">5) Which actress has won the most Oscars?</string>
+    <string name="answerFrancesMcDormand">Frances McDormand</string>
+    <string name="answerKatharineHepburn">Katharine Hepburn</string>
+    <string name="answerMerylStreep">Meryl Streep</string>
+    <string name="questionNo6">6) Green color is formed when we mix two color(choose double answer for this question)?</string>
+    <string name="answerBlue">Blue</string>
+    <string name="answerBlack">Black</string>
+    <string name="answerYellow">Yellow</string>
+    <string name="submit">Submit</string>
+</resources>
