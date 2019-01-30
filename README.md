@@ -1,7 +1,7 @@
 # BrainGameQuiz
 BrainGameQuiz App shows the list of Question & and Answers.
 
-MEETS SPECIFICATIONS
+## MEETS SPECIFICATIONS
 
 ->App contains 4 - 10 questions, including at least one check box, one radio button, and one text entry.
 
@@ -18,7 +18,7 @@ MEETS SPECIFICATIONS
 ->The app gracefully handles displaying all the content on screen when rotated. Either by updating the layout, adding a scrollable feature or some other mechanism that adheres to Android development guidelines.
 
 
-Functionality
+## Functionality
 
 ->The code runs without errors.
 
