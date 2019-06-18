@@ -22,6 +22,8 @@ public class StartingScreenActivity extends AppCompatActivity {
         });
 
     }
+    
+    //Learned First time about Intent //
     //** On cliclicking start button its open the new quiz page **//
     private void startQuiz(){
         Intent intent = new Intent(StartingScreenActivity.this,QuizMainActivity.class);
